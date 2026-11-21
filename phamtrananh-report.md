@@ -47,7 +47,7 @@ Tổng cộng 123 hình vẽ và 80 tag, tương ứng 203 nhãn trên 20 ảnh.
 
 ## 4. Phiếu QC 1 nhận được và lịch sử sửa
 
-Phiếu nộp theo yêu cầu kiểm bài của bạn được ghép là [phamtrananh-qc1-for-leducthanh.md](phamtrananh-qc1-for-leducthanh.md). Phiếu [leducthanh-qc1-for-phamtrananh.md](leducthanh-qc1-for-phamtrananh.md) thuộc phần kiểm bài của Phạm Trần Anh, đang chờ người kiểm xác nhận kết quả.
+Phiếu QC đính kèm trên repo là [leducthanh-qc1-for-phamtrananh.md](leducthanh-qc1-for-phamtrananh.md), với người kiểm Lê Đức Thanh và lô được kiểm của Phạm Trần Anh. Phiếu đang chờ người kiểm xác nhận kết quả. Phiếu `phamtrananh-qc1-for-leducthanh.md` được lưu trong hồ sơ cục bộ để đối chiếu lịch sử kiểm lô của bạn được ghép.
 
 Đã nhận bản dự thảo `phamtrananh-qc1-for-leducthanh.md` để Phạm Trần Anh kiểm lô của Lê Đức Thanh, theo tên đã được Phạm Trần Anh xác nhận. Đây là phiếu kiểm lô của bạn được ghép. Phiếu ghi Rework cho revision 1, với 1 lỗi nặng, 7 lỗi chính, 1 lỗi nhẹ; tỷ lệ lỗi chính đã được tính lại thành 7/70 = 10,0% theo số shape và tag trong thống kê nguồn; tài liệu cho biết phần lớn lỗi đã được sửa ở revision 2 và còn drivable B02. Chưa đối chiếu các ZIP revision 1/2 của lô này. Phạm Trần Anh cần xác nhận các lỗi và ảnh B03 theo ghi chú của phiếu trước khi ký kết luận. Tên hai học viên đã được xác nhận là Phạm Trần Anh và Lê Đức Thanh.
 
